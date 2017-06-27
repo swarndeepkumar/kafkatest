@@ -1,0 +1,14 @@
+{
+  "name": "orderservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "swarndeep kumar",
+  "license": "ISC",
+  "dependencies": {
+    "rd-kafka": "^1.0.0"
+  }
+}
